@@ -10,6 +10,7 @@ My LeetCode solutions in C++ and Python.
 | # | Problem | Difficulty | Python | C++ |
 |---|---------|------------|--------|-----|
 | 1920 | Build Array from Permutation | Easy | ✅ | ⬜ |
+| 3876 | Construct Uniform Parity Array II | Medium | ✅ | ⬜ |
 
 ## Goal 🎯
 
