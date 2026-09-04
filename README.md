@@ -11,7 +11,7 @@ My LeetCode solutions in C++ and Python.
 |---|---------|------------|--------|-----|
 | 1920 | Build Array from Permutation | Easy | ✅ | ⬜ |
 | 3876 | Construct Uniform Parity Array II | Medium | ✅ | ⬜ |
-
+| 507 | Perfect Number | Easy | ⬜ | ✅ |
 ## Goal 🎯
 
 Solve LeetCode problems consistently and improve my DSA skills.
