@@ -13,6 +13,7 @@ My LeetCode solutions in C++ and Python.
 | 3876 | Construct Uniform Parity Array II | Medium | ✅ | ⬜ |
 | 507 | Perfect Number | Easy | ⬜ | ✅ |
 | 70 | Climbing Stairs | Easy | ⬜ | ✅ |
+| 238 | Product of Array Except Self | Medium | ⬜ | ✅ |
 ## Goal 🎯
 
 Solve LeetCode problems consistently and improve my DSA skills.
