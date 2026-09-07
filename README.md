@@ -14,6 +14,7 @@ My LeetCode solutions in C++ and Python.
 | 507 | Perfect Number | Easy | ⬜ | ✅ |
 | 70 | Climbing Stairs | Easy | ⬜ | ✅ |
 | 238 | Product of Array Except Self | Medium | ⬜ | ✅ |
+| 283 | Move Zeroes | Easy | ⬜ | ✅ |
 ## Goal 🎯
 
 Solve LeetCode problems consistently and improve my DSA skills.
