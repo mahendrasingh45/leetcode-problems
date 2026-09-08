@@ -15,6 +15,7 @@ My LeetCode solutions in C++ and Python.
 | 70 | Climbing Stairs | Easy | ⬜ | ✅ |
 | 238 | Product of Array Except Self | Medium | ⬜ | ✅ |
 | 283 | Move Zeroes | Easy | ⬜ | ✅ |
+| 217 | Contain Duplicates | Easy | ⬜ | ✅ |
 ## Goal 🎯
 
 Solve LeetCode problems consistently and improve my DSA skills.
