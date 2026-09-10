@@ -17,6 +17,7 @@ My LeetCode solutions in C++ and Python.
 | 283 | Move Zeroes | Easy | ⬜ | ✅ |
 | 217 | Contain Duplicates | Easy | ⬜ | ✅ |
 | 242 | Valid Anagram | Easy | ⬜ | ✅ |
+| 876 | Middle Of The Linked List | Easy | ⬜ | ✅ |
 ## Goal 🎯
 
 Solve LeetCode problems consistently and improve my DSA skills.
