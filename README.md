@@ -19,6 +19,7 @@ My LeetCode solutions in C++ and Python.
 | 242 | Valid Anagram | Easy | ⬜ | ✅ |
 | 876 | Middle Of The Linked List | Easy | ⬜ | ✅ |
 | 415 | Add String | Easy | ⬜ | ✅ |
+| 283 | Stone Game | Medium | ⬜ | ✅ |
 ## Goal 🎯
 
 Solve LeetCode problems consistently and improve my DSA skills.
