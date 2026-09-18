@@ -43,6 +43,7 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
+| [0739-daily-temperatures](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,12 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
