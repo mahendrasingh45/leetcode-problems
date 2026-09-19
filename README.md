@@ -42,6 +42,7 @@ New problems will be added regularly as I solve them.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -80,4 +81,12 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0739-daily-temperatures) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
