@@ -45,10 +45,12 @@ New problems will be added regularly as I solve them.
 | [0011-container-with-most-water](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [2831-find-the-longest-equal-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
+| [2831-find-the-longest-equal-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
+| [2831-find-the-longest-equal-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +92,8 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2831-find-the-longest-equal-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 <!---LeetCode Topics End-->
