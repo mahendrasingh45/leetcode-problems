@@ -72,6 +72,7 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
