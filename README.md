@@ -45,6 +45,7 @@ New problems will be added regularly as I solve them.
 | [0011-container-with-most-water](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mahendrasingh45/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -63,6 +64,7 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 ## Bit Manipulation
 |  |
