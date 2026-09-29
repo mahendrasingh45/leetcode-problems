@@ -50,6 +50,7 @@ New problems will be added regularly as I solve them.
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mahendrasingh45/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3978-unique-middle-element](https://github.com/mahendrasingh45/leetcode-problems/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,4 +112,8 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/mahendrasingh45/leetcode-problems/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->
