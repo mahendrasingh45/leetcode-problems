@@ -44,6 +44,7 @@ New problems will be added regularly as I solve them.
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0031-next-permutation) |
+| [0152-maximum-product-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -118,4 +119,8 @@ New problems will be added regularly as I solve them.
 |  |
 | ------- |
 | [3978-unique-middle-element](https://github.com/mahendrasingh45/leetcode-problems/tree/master/3978-unique-middle-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
