@@ -64,6 +64,7 @@ New problems will be added regularly as I solve them.
 | ------- |
 | [0268-missing-number](https://github.com/mahendrasingh45/leetcode-problems/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mahendrasingh45/leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2469-convert-the-temperature](https://github.com/mahendrasingh45/leetcode-problems/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mahendrasingh45/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
